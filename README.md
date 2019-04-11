@@ -1,1 +1,1 @@
-# serverless-ci-cd-with-gcp
+# ci-cd-serverless-example-codefresh-and-gcp
